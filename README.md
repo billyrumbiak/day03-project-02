@@ -1,2 +1,2 @@
-# day03-project-02
-Day 03 Project 02
+# day03-project-01
+Day 03 Project 01
